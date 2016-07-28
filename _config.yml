@@ -1,0 +1,28 @@
+name: bearcc
+favicon: null
+layout_spectrum: 0.5906199051532894
+typography_spectrum: 0.643038033740595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.09955691359937191
+  lightness: 0.03348659840412438
+  saturation: 0.6318327228073031
+  rhythmicContrast: 0.7360499142669141
+purpose: []
